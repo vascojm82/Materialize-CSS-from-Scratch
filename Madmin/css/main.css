@@ -1,0 +1,25 @@
+.loader{
+  position: absolute;
+  top: 40%;
+  left: 47%;
+}
+
+.delete:hover{
+  cursor: pointer;
+}
+
+.card-posts, .posts-table{
+  color: black !important;
+}
+
+.login{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.btn-extended{
+  display: block;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
